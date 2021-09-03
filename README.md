@@ -37,7 +37,7 @@
 ### Follow me
 
 
-[![Instagram Badge](https://img.shields.io/badge/-sabari-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/dharwin_ruppa)](https://www.instagram.com/rishi_sabari/?hl=en) 
-[![Twitter Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DharwinJRuppa)](https://twitter.com/dharwinrvj) 
+[![Instagram Badge](https://img.shields.io/badge/-Sabari K S-e02c73?style=flat circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/rishi_sabari/?hl=en)](https://www.instagram.com/rishi_sabari/?hl=en) 
+[![Twitter Badge](https://img.shields.io/badge/-Sabari K S%20R%20V%20J-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RishiSabari)](https://twitter.com/RishiSabari) 
 [![GitHub Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/DharwinJRuppa)](https://github.com/DharwinRVJ) 
 [![Gmail Badge](https://img.shields.io/badge/-Dharwin%20R%20V%20J-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:dharwinruppa1422@gmail.com)](mailto:dharwinruppa1422@gmail.com)
