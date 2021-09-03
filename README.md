@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
-<em> Want to know more about me? [Click here](https://www.linkedin.com/in/dharwin-r-v-j) </em>
+<em> Want to know more about me? [Click here](http://sabar-i.herokuapp.com/) </em>
 <em>
   
   **Talking about Personal Stuffs:**
