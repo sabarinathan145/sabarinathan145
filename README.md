@@ -1,12 +1,12 @@
 ### Hi there, [Sabari](http://sabar-i.herokuapp.com/) ! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 ![GitHub followers](https://img.shields.io/github/followers/sabarinathan145?style=social)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DharwinRVJ&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sabarinathan145&style=flat-square)
 
 ### GitHub Stats
 <p align="center">
-  <a href = "https://github.com/DharwinRVJ">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=DharwinRVJ&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href = "https://github.com/sabarinathan145">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sabarinathan145&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
