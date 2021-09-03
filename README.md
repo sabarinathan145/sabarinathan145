@@ -1,5 +1,5 @@
 ### Hi there, [Sabari](http://sabar-i.herokuapp.com/) ! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-![GitHub followers](https://img.shields.io/github/followers/DharwinRVJ?style=social)
+![GitHub followers](https://img.shields.io/github/followers/sabarinathan145?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DharwinRVJ&style=flat-square)
 
